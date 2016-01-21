@@ -1,0 +1,11 @@
+$header-color: rgb(0, 119, 221);
+$header-icon-color: rgb(221, 146, 0);
+
+$hue: 210;
+$primary-color: hsl($hue, 48%, 47%);
+$primary-color-dark: hsl($hue, 53%, 35%);
+$primary-color-darkest: darken($primary-color-dark, 10%);
+$border-color: darken($primary-color-dark, 25%);
+
+$background-color: #fdfdfd;
+$footer-color: darken($background-color, 10%);
