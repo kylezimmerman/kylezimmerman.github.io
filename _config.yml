@@ -6,12 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kyle Zimmerman's Blog
+title: Kyle Zimmerman's
 email: zimmerkyle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  **I'm a Programmer, Developer and Problem-Solver.** I love to solve puzzles, tinker, and code.
+
+  I've work as a Web Developer at [Conestoga College](http://www.conestogac.on.ca) since 2014 and I graduate in April 2016.
+
+  **If you're looking for a talented, hard working developer** [let me know](mailto:zimmerkyle@gmail.com). You can also check out my [resume](/resume/), [projects](/projects/), and [skills](/skills/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kylezimmerman.github.io" # the base hostname & protocol for your site
 github_username:  kylezimmerman
