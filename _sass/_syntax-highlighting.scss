@@ -9,7 +9,7 @@
     padding: 0 0.5em;
 }
 
-code:not([data-lang]) { 
+code:not([data-lang]) {
     background-color: #272822;
     color: #f8f8f8;
     padding: 0.15em 0.4em;
@@ -18,12 +18,7 @@ code:not([data-lang]) {
     border-radius: 2px; border: 1px solid #111;
 }
 
-.highlight code {
-    padding: 0.5em;
-}
-
-
-.highlight > pre { box-shadow: 0 0 8px #111; border: 2px solid #111; }
+.highlight > pre { box-shadow: 0 0 8px #111; border: 2px solid #111; padding: 0.5em; }
 
 .highlight pre { background-color: #272822; color: #f8f8f2; }
 .highlight .hll { background-color: #272822; }
