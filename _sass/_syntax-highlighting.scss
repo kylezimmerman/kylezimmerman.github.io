@@ -5,16 +5,23 @@
      -webkit-user-select: none;
      -ms-user-select: none;
      user-select: none;
-}
-.highlight .gutter {
     border-right: 1px solid #666;
     padding: 0 0.5em;
 }
-.highlight .code {
+
+code:not([data-lang]) { 
+    background-color: #272822;
+    color: #f8f8f8;
+    padding: 0.15em 0.4em;
+    display: inline-block;
+    vertical-align: baseline;
+    border-radius: 2px; border: 1px solid #111;
+}
+
+.highlight code {
     padding: 0.5em;
 }
 
-.highlighter-rouge { background-color: #272822; color: #f8f8f8; padding: 0.15em 0.4em; display: inline-block; vertical-align: baseline; border-radius: 2px; border: 1px solid #111;}
 
 .highlight > pre { box-shadow: 0 0 8px #111; border: 2px solid #111; }
 
